@@ -9,7 +9,7 @@ I am a software developer who loves turning complex problems into clean, scalabl
   
   ![](https://github-readme-stats.shion.dev/api?username=0dillon&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
   
-  ![](https://streak-stats.demolab.com/?user=0dillon&theme=transparent&hide_border=false&v=2)<br/>
+  ![](https://streak-stats.demolab.com/?user=0dillon&theme=transparent&hide_border=false&v=3)<br/>
   
   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=0dillon&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 </div>
