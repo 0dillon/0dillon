@@ -1,5 +1,5 @@
 # About Me:
-I am a software developer who loves turning complex problems into clean, scalable systems. I spend my time building fast web servers and CLI tools in Go, scripting automated workflows in Python, and keeping things strictly typed in TypeScript. Beyond the terminal, I have a deep love for philosophy — specifically exploring the ethics and moral agency of Artificial Intelligence. I believe the best software requires both rigorous logic and thoughtful design.<br><br>🔭 Current Focus: Building robust systems with Go, Python, and TypeScript.<br><br>🌱 Currently Exploring: AI-native development and the intersection of machine learning and moral agency. Data Structures and Algorithms (DSA) to level up my problem-solving and write wildly efficient code.<br><br>📂 Featured Work: Check out my [active projects](PROJECTS.md) in the Stellar and Soroban ecosystem.<br><br>👯 I’m looking to collaborate on: Machine Learning and AI-driven projects.<br><br>💬 Ask me about: Existential philosophy.
+I am a software developer who loves turning complex problems into clean, scalable systems. I spend my time building fast web servers and CLI tools in Go, scripting automated workflows in Python, and keeping things strictly typed in TypeScript. Beyond the terminal, I have a deep love for philosophy — specifically exploring the ethics and moral agency of Artificial Intelligence. I believe the best software requires both rigorous logic and thoughtful design.<br><br>🔭 Current Focus: Building robust systems with Go, Python, and TypeScript.<br><br>🌱 Currently Exploring: AI-native development and the intersection of machine learning and moral agency. Data Structures and Algorithms (DSA) to level up my problem-solving and write wildly efficient code.<br><br>📂 Featured Work: Check out my [active projects](PROJECTS.md), [engineering principles](ARCHITECTURE.md), and [research notes](RESEARCH.md) in the Stellar and Soroban ecosystem.<br><br>👯 I’m looking to collaborate on: Machine Learning and AI-driven projects.<br><br>💬 Ask me about: Existential philosophy.
 
 
 # 💻 Tech Stack:
@@ -9,7 +9,7 @@ I am a software developer who loves turning complex problems into clean, scalabl
   
   ![](https://github-readme-stats.shion.dev/api?username=0dillon&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
   
-  ![](https://streak-stats.demolab.com/?user=0dillon&theme=transparent&hide_border=false&v=4)<br/>
+  ![](https://streak-stats.demolab.com/?user=0dillon&theme=transparent&hide_border=false&v=5)<br/>
   
   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=0dillon&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 </div>
